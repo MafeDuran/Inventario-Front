@@ -1,0 +1,13 @@
+.custom-select-n {
+    max-width: 150px; /* Ajusta el valor según tus necesidades */
+  }
+  
+  .custom-table th, .custom-table td {
+    font-size: 0.75rem !important;/* Ajusta el tamaño de la fuente según sea necesario */
+  }
+
+  .btn-rounded {
+    border-radius: 50px; 
+    min-width: 150px;
+  }
+  

@@ -1,0 +1,56 @@
+.custom-title {
+    font-size: 1rem; /* Tamaño del texto, ajusta según sea necesario */
+    color: #1A531C; /* Color del texto, ajusta el valor del color según sea necesario */
+  }
+  /* Asegura que todas las celdas tengan el mismo estilo */
+.custom-table th, .custom-table td {
+    padding: 8px; /* Ajusta el padding para mejor visualización */
+    vertical-align: middle; /* Alineación vertical central */
+    text-align: center; /* Alineación horizontal central */
+  }
+  
+  /* Estilo específico para los checkboxes */
+  .custom-table th input[type="checkbox"], 
+  .custom-table td input[type="checkbox"] {
+    margin: 0; /* Elimina márgenes */
+    transform: scale(1); /* Ajusta el tamaño del checkbox */
+    vertical-align: middle; /* Alineación vertical del checkbox */
+  }
+  .action-container {
+    display: flex;
+    justify-content: space-between; /* Espacia los elementos */
+    align-items: center; /* Alinea verticalmente */
+    padding: 10px; /* Espaciado interno */
+    width: 100%; /* Asegura que ocupe todo el ancho disponible */
+}
+
+/* Sección del texto */
+.left-section {
+    flex: 1; /* Ocupa el espacio disponible a la izquierda */
+}
+
+/* Sección del botón */
+.right-section {
+    flex: 1; /* Ocupa el espacio disponible a la derecha */
+    text-align: right; /* Alinea el botón a la derecha */
+}
+
+/* Estilo para el texto */
+.title-text {
+    font-size: 16px; /* Tamaño del texto */
+    font-weight: bold; /* Peso del texto */
+    color:#1A531C;
+}
+
+.green-line {
+    height: 4px; /* Grosor de la línea */
+    background: green; /* Color de la línea */
+    margin-top: 10px; /* Espacio encima de la línea */
+    width: 100%; /* Ocupa el ancho completo del contenedor */
+}
+
+
+/* Opcional: Ajusta el ancho de los inputs de fecha si es necesario */
+.form-margen{
+    width: auto; /* Asegura que el ancho del input no sea fijo */
+}

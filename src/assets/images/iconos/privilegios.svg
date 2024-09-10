@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.325" height="40" viewBox="0 0 28.325 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="28.325" height="40" transform="translate(6.563 341)" fill="#348437" stroke="#666" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_3" data-name="Enmascarar grupo 3" transform="translate(-6.563 -341)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(6.563 346.838)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectángulo_12" data-name="Rectángulo 12" width="28.325" height="28.325" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2">
+        <path id="Trazado_487" data-name="Trazado 487" d="M14.162,5.606l2.3,4.721.59,1.062,1.18.177,5.193.767-3.718,3.659-.885.826L19,18.057l.885,5.134-4.6-2.419-1.121-.59-1.121.59-4.6,2.419.885-5.134L9.5,16.818l-.885-.826L4.9,12.333l5.193-.767,1.18-.177.59-1.062,2.3-4.721m0-3.836a1.239,1.239,0,0,0-1.062.649L9.737,9.265,2.183,10.327a1.239,1.239,0,0,0-.649,2.065l5.429,5.252L5.724,25.2a1.18,1.18,0,0,0,1.121,1.357l.59-.118L14.162,22.9l6.727,3.541.59.118A1.18,1.18,0,0,0,22.6,25.2l-1.239-7.553,5.429-5.252a1.239,1.239,0,0,0-.649-2.065L18.588,9.265,15.225,2.419a1.239,1.239,0,0,0-1.062-.649Z" fill="#348437"/>
+      </g>
+    </g>
+  </g>
+</svg>

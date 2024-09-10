@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.325" height="40" viewBox="0 0 28.325 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="28.325" height="40" transform="translate(6.563 101)" fill="#348437" stroke="#666" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_2" data-name="Enmascarar grupo 2" transform="translate(-6.563 -101)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(6.563 106.838)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectángulo_9" data-name="Rectángulo 9" width="28.325" height="28.325" fill="none"/>
+        <rect id="Rectángulo_10" data-name="Rectángulo 10" width="28.325" height="28.325" fill="none"/>
+        <rect id="Rectángulo_11" data-name="Rectángulo 11" width="28.325" height="28.325" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2">
+        <path id="Trazado_484" data-name="Trazado 484" d="M26.731,8.32,14.162,3.541,1.593,8.32a.531.531,0,0,0,0,1.062l12.569,4.78,12.569-4.78a.531.531,0,1,0,0-1.062Zm-12.569,3.3L6.786,8.851l7.376-2.773,7.376,2.773Z" fill="#348437"/>
+        <path id="Trazado_485" data-name="Trazado 485" d="M25.551,13.041,14.162,17.526,2.773,13.041a1.195,1.195,0,1,0-.826,2.242l12.215,4.78,12.215-4.78a1.195,1.195,0,1,0-.826-2.242Z" fill="#348437"/>
+        <path id="Trazado_486" data-name="Trazado 486" d="M25.551,18.942,14.162,23.427,2.773,18.942a1.195,1.195,0,1,0-.826,2.242l12.215,4.78,12.215-4.78a1.195,1.195,0,1,0-.826-2.242Z" fill="#348437"/>
+      </g>
+    </g>
+  </g>
+</svg>

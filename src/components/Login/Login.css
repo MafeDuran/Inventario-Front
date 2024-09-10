@@ -1,0 +1,109 @@
+.container-fluid-login {
+  margin: 0 !important;
+  padding: 0 !important;
+  display: flex !important;
+  height: 100vh !important;
+}
+
+#root {
+  width: 100% !important;
+  height: 100%;
+}
+.left-side {
+  flex: 1;
+  background-image: url('../../assets/images/left.png'); 
+  background-size: cover;
+  background-position: center;
+  position: relative;
+}
+
+.overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.4);
+}
+
+.right-side {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  padding: 20px;
+}
+
+.logo img {
+  width: 170px;
+  margin-bottom: 20px;
+}
+
+.title img {
+  width: 400px;
+  margin-bottom: 20px;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: #0b6a0b;
+  margin-bottom: 30px;
+}
+
+.login-box {
+  max-width: 400px;
+  width: 100%;
+  text-align: center;
+}
+
+.login-box p {
+  margin-bottom: 20px;
+  color: #333;
+  font-size: 0.9rem;
+}
+
+.separator {
+  margin-top: 20px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.separator hr {
+  width: 100%;
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 20px 0;
+}
+
+.separator-logo {
+  width: 80px; /* Tamaño del logo */
+}
+.help {
+  margin-top: 15px;
+}
+
+.help p {
+  color: #333;
+  font-size: 0.9rem;
+}
+
+.help a {
+  color: #0b6a0b;
+  text-decoration: none;
+}
+
+.help a:hover {
+  text-decoration: underline;
+}
+
+.btn-primary {
+  background-color: #0b6a0b;
+}
+
+.btn-primary:hover {
+  background-color: #8BB525;
+}

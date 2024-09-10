@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28.325" height="40" viewBox="0 0 28.325 40">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_123" data-name="Rectangle 123" width="28.325" height="40" transform="translate(6.563 293)" fill="#348437" stroke="#666" stroke-width="2"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_1" data-name="Enmascarar grupo 1" transform="translate(-6.563 -293)" clip-path="url(#clip-path)">
+    <g id="Layer_2" data-name="Layer 2" transform="translate(6.563 298.838)">
+      <g id="invisible_box" data-name="invisible box">
+        <rect id="Rectángulo_5" data-name="Rectángulo 5" width="28.325" height="28.325" fill="none"/>
+      </g>
+      <g id="icons_Q2" data-name="icons Q2">
+        <rect id="Rectángulo_6" data-name="Rectángulo 6" width="11.802" height="2.36" rx="1.18" transform="translate(8.261 8.261)" fill="#348437"/>
+        <rect id="Rectángulo_7" data-name="Rectángulo 7" width="11.802" height="2.36" rx="1.18" transform="translate(8.261 12.982)" fill="#348437"/>
+        <rect id="Rectángulo_8" data-name="Rectángulo 8" width="7.081" height="2.36" rx="1.18" transform="translate(8.261 17.703)" fill="#348437"/>
+        <path id="Trazado_483" data-name="Trazado 483" d="M22.424,4.131V24.194H5.9V4.131H22.424M23.6,1.77H4.721a1.18,1.18,0,0,0-1.18,1.18V25.374a1.18,1.18,0,0,0,1.18,1.18H23.6a1.18,1.18,0,0,0,1.18-1.18V2.95A1.18,1.18,0,0,0,23.6,1.77Z" fill="#348437"/>
+      </g>
+    </g>
+  </g>
+</svg>
